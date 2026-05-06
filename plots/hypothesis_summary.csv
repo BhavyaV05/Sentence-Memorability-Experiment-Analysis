@@ -1,0 +1,4 @@
+Hypothesis,Prediction,Main Test,Test Statistic,p-value,Effect Size,Direction,Support,Interpretation
+H11: False Alarm Bias,HH nouns → Higher FAs (↓HR) due to familiarity,Kruskal-Wallis (HR by noun type),H = 19.9333,0.0002,d(HH-LL) = 0.2014,HH > LL (opposite to prediction),✗ NO SUPPORT,High-memorability nouns NOT associated with increased errors
+H2a: Semantic Ceiling,WR ≥ 95% (uniform); Var(WR) << Var(IR),Overall mean WR; Variance ratio,WR = 0.7531,Levene/Fligner < .05,Var(IR)/Var(WR) ≈ large,WR ceiling present; Var ratio > 1,✓ STRONG SUPPORT,Semantic encoding robust; variance structure supports dual-route
+H4a: Additive Independence,IR interaction (voice × noun) nonsignificant,Two-way ANOVA Type II SS,F(interaction) = 0.0698,0.9761,η² = 0.0001,Effects additive (no interaction),✓ SUPPORT IF p > .05,Content and structure effects independent

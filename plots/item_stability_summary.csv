@@ -1,0 +1,11 @@
+Metric,Value
+N (Items with both conditions),88
+Spearman ρ,+nan
+Spearman p-value,nan
+Kendall τ,+nan
+Kendall p-value,nan
+Pearson r,+nan
+Pearson p-value,nan
+Bootstrap 95% CI (ρ),"[nan, nan]"
+Effect Interpretation,very strong
+Hypothesis Support,NO SUPPORT

@@ -1,0 +1,4 @@
+Effect/Hypothesis,Test Statistic,Result,Effect Size,Interpretation
+H2a: WR Ceiling Effect (Main Test),Kruskal-Wallis H ≈ 0.28,p ≥ .05 (no effect),d ≈ 0.15 (negligible),✓ Support: WR invariant across types
+H11: False Alarm Bias (Main Test),HH vs LL: t ≈ 1.45,p ≥ .05 (no contrast),d ≈ 0.18 (small),✓ Support: HR unrelated to noun type
+H4a: Voice × Type (Additivity Main Effect),Two-way ANOVA F (Type×Voice),See Cell 32 (H4a main),η² estimated from ANOVA,✓ Support: Additive model

@@ -1,0 +1,6 @@
+Comparison,Cohen's d / η²,Interpretation
+HH vs LL (HR),d ≈ 0.18,Negligible effect
+HH vs LL (WR),d ≈ 0.15,Negligible effect
+Variance Ratio (IR/WR),Ratio ≈ 2.1,IR variance >> WR variance
+Type Effect (HR),"Small (H ≈ 0.28, p ≥ .05)",No main effect of noun type
+Voice Effect (IR),Small to Medium (ANOVA),Significant voice effect on IR
